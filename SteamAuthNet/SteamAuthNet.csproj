@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AngleSharp.XPath" Version="*" />
+    <PackageReference Include="Newtonsoft.Json" Version="*" />
+  </ItemGroup>
+
 </Project>
